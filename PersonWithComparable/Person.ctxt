@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Person()
+comment1.params=f\ m\ l\ h\ w\ a\ sch
+comment1.target=Person(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=other
+comment2.target=boolean\ equals(java.lang.Object)
+comment3.params=other
+comment3.target=int\ compareTo(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
